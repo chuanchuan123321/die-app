@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter pub get:*)",
+      "Bash(flutter clean:*)",
+      "Bash(sips:*)",
+      "Bash(ls:*)",
+      "Bash(chmod:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run dev)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(pm2 restart:*)",
+      "Bash(cat:*)",
+      "Bash(kill:*)"
+    ]
+  }
+}
